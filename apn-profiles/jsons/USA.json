@@ -8,6 +8,36 @@
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
    },
    {
+     "name": "Liberty Wireless",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/libertywireless.mobileconfig"
+   },
+   {
+     "name": "LycaMobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/lycamobile.mobileconfig"
+   },
+   {
+     "name": "MetroPCS",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/metropcs.mobileconfig"
+   },
+   {
+     "name": "Mobal",
+     "country": "USA",
+     "profile_url": "http://openroamer.com/Openroamer.mobileconfig"
+   },
+   {
+     "name": "Net 10",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/net10.mobileconfig"
+   },
+   {
+     "name": "Page Plus Cellular",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/pagepluscellular.mobileconfig"
+   },
+   {
      "name": "Pix Wireless",
      "country": "USA",
      "profile_url": "https://www.pixwireless.com/other/pixwireless.mobileconfig"
