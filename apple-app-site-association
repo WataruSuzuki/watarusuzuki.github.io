@@ -3,6 +3,10 @@
         "apps":[],
         "details":[
             {
+                "appID":"F35G39V2UB.jp.co.JchanKchan.APNAssistant",
+                "paths":["/APNAssistant/*"]
+            },
+            {
                 "appID":"F35G39V2UB.jp.co.JchanKchan.ApnAssister2",
                 "paths":["/APNAssistant/universallink/*"]
             },
