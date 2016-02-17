@@ -3,6 +3,10 @@
         "apps":[],
         "details":[
             {
+                "appID":"F35G39V2UB.jp.co.JchanKchan.ApnAssister2",
+                "paths":["/APNAssistant/universallink/*"]
+            },
+            {
                 "appID":"F35G39V2UB.com.wataru.iOS-Sample-Chimera-ObjC",
                 "paths":["/iOS-Sample-Chimera-ObjC/*"]
             }
