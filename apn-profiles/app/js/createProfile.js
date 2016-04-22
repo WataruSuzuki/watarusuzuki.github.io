@@ -86,7 +86,7 @@ angular.module('app')
             profileXml += "<key>PayloadVersion</key><integer>1</integer></dict></plist>"
 
             // var ref = window.open('data:Application/octet-stream,' + encodeURIComponent(profileXml), 'apnbookmarks.mobileconfig', 'location=yes');
-            var ref = window.open('https://radiant-temple-37660.herokuapp.com/?apnprofile=' + encodeURIComponent(profileXml), 'apnbookmarks.mobileconfig', 'location=yes');
+            var ref = window.open('https://ios-apnprofile-putter.herokuapp.com/?apnprofile=' + encodeURIComponent(profileXml), 'apnbookmarks.mobileconfig', 'location=yes');
 
             // var uri = 'data:text/xml;charset=utf-8,' + escape(profileXml);
             // var link = document.createElement("a");
