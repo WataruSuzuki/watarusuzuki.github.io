@@ -3,6 +3,10 @@
  "kind": "app_version",
  "items": [
    {
+     "name": "ApnAssister1",
+     "version": "1.1.1"
+   },
+   {
      "name": "ApnAssister2",
      "version": "2.0.0"
    },
