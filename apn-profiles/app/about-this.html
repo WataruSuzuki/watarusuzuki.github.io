@@ -8,31 +8,22 @@
         <div class="left">About This(このサイトについて)</div>
     </ons-toolbar>
 
-    <div id='ibb-widget-root-1160309695'>
-    </div>
-    <script>(function(t,e,i,d){
-      var o=t.getElementById(i),n=t.createElement(e);
-      o.style.height=250;o.style.width=300;
-      o.style.display='inline-block';
-      n.id='ibb-widget',
-      n.setAttribute('src',
-      ('https:'===t.location.protocol?'https://':'http://')+d),
-      n.setAttribute('width','300'),
-      n.setAttribute('height','250'),
-      n.setAttribute('frameborder','0'),
-      n.setAttribute('scrolling','no'),o.appendChild(n)
-    })(document,
-      'iframe',
-      'ibb-widget-root-1160309695',
-      "banners.itunes.apple.com/banner.html?partnerId=&aId=&bt=catalog&t=catalog_black&id=1160309695&c=jp&l=ja-JP&w=300&h=250&store=apps");
-      </script>
-    <div id="wrapper">
-        <ol>
-          <p><input type="button" value="警告ダイアログ" onClick="dispAlert()"></p>
-          <p><input type="button" value="外部webサイト読み込み" onClick="loadExternalWebsite()"></p>
-          <p><input type="button" value="APN Assistant(APNアシスタント)" onClick="launchApp()"></p>
-        </ol>
-      </div>
+    <p>This app helps you about mobile network settings when you offline.</p>
+    <p>Sometimes, you choose SIM card of minor operator that called MVNO. </p>
+    <p>And you have to set "APN", via downloading configuration profiles from Safari, receive E-Mail.</p>
+    <p></p>
+    <p>It's need Internet, almost case using free Wi-Fi network.</p>
+    <p>But, you can not all find free Wi-Fi while traveling.</p>
+    <p></p>
+    <p>This app can set new APN even you're devices can't access to Internet.</p>
+    <p>So, if you get this app, your travel becomes better than now!!</p>
+
+<div id='ibb-widget-root-1160309695'></div><script>(function(t,e,i,d){var o=t.getElementById(i),n=t.createElement(e);o.style.height=250;o.style.width=300;o.style.display='inline-block';n.id='ibb-widget',n.setAttribute('src',('https:'===t.location.protocol?'https://':'http://')+d),n.setAttribute('width','300'),n.setAttribute('height','250'),n.setAttribute('frameborder','0'),n.setAttribute('scrolling','no'),o.appendChild(n)})(document,'iframe','ibb-widget-root-1160309695',"banners.itunes.apple.com/banner.html?partnerId=&aId=&bt=catalog&t=catalog_black&id=1160309695&c=jp&l=ja-JP&w=300&h=250&store=apps");</script>
+
+    <div style="text-align: center">
+      <section style="padding: 0 8px 8px">
+        <ons-button modifier="large" should-spin=false ng-click="launchApp()">Launch App(アプリ起動)</ons-button>
+      </section>
     </div>
 
 </ons-page>
