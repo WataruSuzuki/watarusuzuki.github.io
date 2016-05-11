@@ -85,17 +85,20 @@ angular.module('app')
             profileXml += "<key>PayloadUUID</key><string>" + UUID_forIdentifier + "</string>"
             profileXml += "<key>PayloadVersion</key><integer>1</integer></dict></plist>"
 
-            //window.open('data:Application/octet-stream,' + encodeURIComponent(profileXml), 'apnbookmarks.mobileconfig');
+            var uri = 'data:Application/force-download,' + encodeURIComponent(profileXml);
+            header("Content-Type: application/force-download");
+            header('Content-Disposition: attachment; filename=apnbookmarks.mobileconfig');
+            var ref = window.open(uri, '_blank', 'location=yes');
 
-            var uri = 'data:text/xml;charset=utf-8,' + escape(profileXml);
-            var link = document.createElement("a");
-            link.href = uri;
-            link.style = "visibility:hidden";
-            link.download = "apnbookmarks.mobileconfig";
-
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
+            // var uri = 'data:text/xml;charset=utf-8,' + escape(profileXml);
+            // var link = document.createElement("a");
+            // link.href = uri;
+            // link.style = "visibility:hidden";
+            // link.download = "apnbookmarks.mobileconfig";
+            //
+            // document.body.appendChild(link);
+            // link.click();
+            // document.body.removeChild(link);
 		} else {
 			$scope.popover.show('#input-name');
 		}
