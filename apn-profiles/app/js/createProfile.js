@@ -85,10 +85,7 @@ angular.module('app')
             profileXml += "<key>PayloadUUID</key><string>" + UUID_forIdentifier + "</string>"
             profileXml += "<key>PayloadVersion</key><integer>1</integer></dict></plist>"
 
-            var uri = 'data:Application/force-download,' + encodeURIComponent(profileXml);
-            header("Content-Type: application/force-download");
-            header('Content-Disposition: attachment; filename=apnbookmarks.mobileconfig');
-            var ref = window.open(uri, '_blank', 'location=yes');
+            var ref = window.open('data:Application/octet-stream,' + encodeURIComponent(profileXml), 'apnbookmarks.mobileconfig', 'location=yes');
 
             // var uri = 'data:text/xml;charset=utf-8,' + escape(profileXml);
             // var link = document.createElement("a");
