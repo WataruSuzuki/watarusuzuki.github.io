@@ -19,7 +19,7 @@
 -->
 <html lang="en" ng-app="app" ng-csp>
     <head>
-      <title>APN Bookmarks</title>
+      <title>APN Assistant Project</title>
       <meta charset="utf-8" />
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="mobile-web-app-capable" content="yes" />
@@ -46,26 +46,16 @@
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
 
-        <script src="js/apnProfileList.js"></script>
-        <script src="js/countryList.js"></script>
-        <script src="js/createProfile.js"></script>
         <script src="js/aboutThisPage.js"></script>
 
         <ons-sliding-menu menu-page="top-sliding-menu.html" main-page="toppage.html" side="left"
           var="menu" type="reveal" max-slide-distance="260px" swipeable="false">
         </ons-sliding-menu>
+        
         <ons-template id="toppage.html">
-          <ons-navigator page="country-list.html" var="onsnavi">
+          <ons-navigator page="about-this.html" var="onsnavi">
           </ons-navigator>
         </ons-template>
 
-        <ons-template id="popover.html">
-          <ons-popover direction="up down" cancelable>
-            <div style="text-align: center; opacity: 0.5;">
-              <p>APN Name input is empty!</p>
-              <p><small>Enter a APN name.</small></p>
-            </div>
-          </ons-popover>
-        </ons-template>
     </body>
 </html>
