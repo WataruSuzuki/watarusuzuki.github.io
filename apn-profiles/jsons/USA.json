@@ -18,6 +18,11 @@
      "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/uvamobile.mobileconfig"
    },
    {
+     "name": "Ultra mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/ultramobile.mobileconfig"
+   },
+   {
      "name": "Walmart Family mobile",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/walmartfamilymobile.mobileconfig"
