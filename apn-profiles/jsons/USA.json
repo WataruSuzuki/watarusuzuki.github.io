@@ -8,6 +8,11 @@
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
    },
    {
+     "name": "The People's Operator USA",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/tpo.mobileconfig"
+   },
+   {
      "name": "Ting",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/ting.mobileconfig"
