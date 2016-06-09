@@ -1,80 +1,60 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="app">
-<head>
-    <meta charset="utf-8" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
-    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,700,700italic,500italic' rel='stylesheet' type='text/css'>
-    <title>APN Bookmarks</title>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
 
-    <link rel="stylesheet" href="../../lib/onsenui/css/onsenui.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="../../lib/onsenui/css/onsen-css-components.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="css/app.css" type="text/css" media="all" />
+    http://www.apache.org/licenses/LICENSE-2.0
 
-    <script src="../../lib/onsenui/js/onsenui.js"></script>
-    <script src="../../lib/angular/angular.js"></script>
-    <script src="../../lib/onsenui/js/angular-onsenui.js"></script>
-    <script src="js/app.js"></script>
-</head>
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html lang="en" ng-app="app" ng-csp>
+    <head>
+      <title>APN Bookmarks</title>
+      <meta charset="utf-8" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="mobile-web-app-capable" content="yes" />
 
-<body>
-  <!-- Cordova reference -->
-  <script src="cordova.js"></script>
-  <!-- -->
+      <!-- JS dependencies (order matters!) -->
+      <script src="scripts/platformOverrides.js"></script>
+      <script src="node_modules/angular/angular.js"></script>
+      <script src="node_modules/onsenui/js/onsenui.js"></script>
+      <script src="node_modules/onsenui/js/angular-onsenui.js"></script>
 
-  <ons-splitter>
-    <ons-splitter-side var="menu" side="left" width="80%" collapse swipeable>
-      <ons-page>
-        <ons-list>
-          <ons-list-header>Menu</ons-list-header>
-          <ons-list-item>
-            This is a menu.
-          </ons-list-item>
-        </ons-list>
-      </ons-page>
-    </ons-splitter-side>
-    <ons-splitter-content page="toppage.html"></ons-splitter-content>
-  </ons-splitter>
+      <!-- CSS dependencies -->
+      <link rel="stylesheet" href="node_modules/onsenui/css/onsenui.css" />
+      <link rel="stylesheet" href="node_modules/onsenui/css/onsen-css-components-blue-basic-theme.css" />
 
-  <ons-template id="toppage.html">
-    <ons-page ng-controller="TodoController as todo">
-      <ons-toolbar>
-        <div class="left">
-          <ons-toolbar-button ng-click="menu.open()">
-            <ons-icon icon="md-menu"></ons-icon>
-          </ons-toolbar-button>
-        </div>
-        <div class="center">Todos</div>
-      </ons-toolbar>
+      <!-- CSP support mode (required for Windows Universal apps) -->
+      <link rel="stylesheet" href="node_modules/angular/angular-csp.css" />
 
-      <ons-list>
-        <ons-list-header>Things to do</ons-list-header>
-        <ons-list-item ng-repeat="item in todo.items">
-          <div class="list__item__left">
-          <label class="checkbox">
-            <input type="checkbox" ng-model="item.done" class="checkbox__input">
-            <div class="checkbox__checkmark"></div>
-          </label>
-          </div>
-          <div class="list__item__center">
-            <input type="text" class="text-input text-input--transparent todo-input" ng-show="todo.selectedItem == $index" ng-model="item.title" ng-blur="todo.selectedItem = -1" label="Title"></input>
-            <span id="todo-title" class="title" ng-class="{ 'done': item.done }" ng-hide="todo.selectedItem == $index" ng-click="todo.selectedItem = $index; todo.focusInput($event)">{{ item.title || 'Untitled item' }}</span>
-          </div>
-        </ons-list-item>
+      <script src="js/app.js"></script>
 
-      </ons-list>
-      <p>
-        <ons-button ng-click="todo.newTodo()" modifier="large">
-          Add Todo
-        </ons-button>
-      </p>
-      <p>
-        <ons-button ng-click="todo.clearCompleted()" modifier="large--quiet">
-          Clear completed
-        </ons-button>
-      </p>
-    </ons-page>
-  </ons-template>
-</body>
+      <link rel="stylesheet" href="css/index.css">
+      <link rel="stylesheet" href="css/feedline.css">
+
+    </head>
+    <body>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+
+        <script src="js/searchPlaceController.js"></script>
+        <script src="js/feedLine.js"></script>
+
+        <ons-sliding-menu menu-page="top-sliding-menu.html" main-page="toppage.html" side="left"
+          var="menu" type="reveal" max-slide-distance="260px" swipeable="true">
+        </ons-sliding-menu>
+
+        <!-- TODO: "sampleCodeForStudy" is only sample for studying.. -->
+        <script src="js/sampleCodeForStudy.js"></script>
+    </body>
 </html>
