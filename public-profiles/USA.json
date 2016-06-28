@@ -1,0 +1,26 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "H2O（AT&T MVNO）",
+     "country": "USA",
+     "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
+   },
+   {
+     "name": "Walmart Family mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/custom-profiles/resources/walmartfamilymobile.mobileconfig"
+   },
+   {
+     "name": "ZingPCS",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/custom-profiles/resources/zingpcs.mobileconfig"
+   },
+   {
+     "name": "Ready SIM",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/custom-profiles/resources/readysim.mobileconfig"
+   }
+ ]
+}
