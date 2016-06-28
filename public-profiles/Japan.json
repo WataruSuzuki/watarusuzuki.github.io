@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "LINE MOBILE",
+     "country": "Japan",
+     "profile_url": "https://mobile.line.me/apn/line.mobileconfig"
+   },
+   {
      "name": "UQ mobile",
      "country": "Japan",
      "profile_url": "http://www.uqwimax.jp/support/mobile/guide/apn/UQmobile_2.0.mobileconfig"
