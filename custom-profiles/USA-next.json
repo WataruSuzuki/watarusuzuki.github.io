@@ -8,6 +8,11 @@
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
    },
    {
+     "name": "ZingPCS",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/custom-profiles/resources/zingpcs.mobileconfig"
+   },
+   {
      "name": "Ready SIM",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/custom-profiles/resources/readysim.mobileconfig"
