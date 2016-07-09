@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "hi-ho LTE",
+     "country": "Japan",
+     "profile_url": "http://hi-ho.jp/download/index.php?f=typeD_iPhoneProfile_Cellular"
+   },
+   {
      "name": "WIRELESS GATE",
      "country": "Japan",
      "profile_url": "http://www.wirelessgate.co.jp/sim/profile/(cellular)wgsimlte1.mobileconfig"
