@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "FREETEL SIM",
+     "country": "Japan",
+     "profile_url": "https://www.freetel.jp/fs.mobileconfig?_ga=1.109430093.918755245.1468218742"
+   },
+   {
      "name": "U-mobile",
      "country": "Japan",
      "profile_url": "http://umobile.jp/i6"
