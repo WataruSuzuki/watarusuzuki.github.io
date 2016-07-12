@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "U-mobile",
+     "country": "Japan",
+     "profile_url": "http://umobile.jp/i6"
+   },
+   {
      "name": "NifMo(iOS8.x-9.x)",
      "country": "Japan",
      "profile_url": "http://support.nifty.com/support/manual/internet/nifmo/dlfs/NifMoAPN9.mobileconfig"
