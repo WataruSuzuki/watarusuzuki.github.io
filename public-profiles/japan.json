@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "NifMo(iOS8.x-9.x)",
+     "country": "Japan",
+     "profile_url": "http://support.nifty.com/support/manual/internet/nifmo/dlfs/NifMoAPN9.mobileconfig"
+   },
+   {
      "name": "BIGLOBE APN 設定プロファイル",
      "country": "Japan",
      "profile_url": "http://support.biglobe.ne.jp/settei/setuzoku/lte/config/biglobe_lte_3g_ver.3.mobileconfig?_ga=1.244430277.1333531349.1468477429"
