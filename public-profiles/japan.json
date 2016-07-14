@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "BIGLOBE APN 設定プロファイル",
+     "country": "Japan",
+     "profile_url": "http://support.biglobe.ne.jp/settei/setuzoku/lte/config/biglobe_lte_3g_ver.3.mobileconfig?_ga=1.244430277.1333531349.1468477429"
+   },
+   {
      "name": "DMM mobile（vmobile.jp）",
      "country": "Japan",
      "profile_url": "http://mvno.dmm.com/apnprofile/201506161329/dmmmobile.mobileconfig"
