@@ -13,6 +13,11 @@
      "profile_url": "http://mobile.rakuten.co.jp/support/apn_setting/B_voice.mobileconfig"
    },
    {
+     "name": "楽天モバイル(008,009の方)",
+     "country": "Japan",
+     "profile_url": "http://mobile.rakuten.co.jp/support/apn_setting/C_voice.mobileconfig"
+   },
+   {
      "name": "hi-ho LTE",
      "country": "Japan",
      "profile_url": "http://hi-ho.jp/download/index.php?f=typeD_iPhoneProfile_Cellular"
