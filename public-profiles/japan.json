@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "ASAHIネット LTE(固定IPアドレス)",
+     "country": "Japan",
+     "profile_url": "http://asahi-net.jp/service/mobile/lte/config/asahi-hc-fixedip.mobileconfig"
+   },
+   {
      "name": "楽天モバイル(003,005の方)",
      "country": "Japan",
      "profile_url": "http://mobile.rakuten.co.jp/support/apn_setting/voice.mobileconfig"
