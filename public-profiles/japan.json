@@ -8,6 +8,11 @@
      "profile_url": "https://ec-club.panasonic.jp/wonderlink/price/apn_profile.html"
    },
    {
+     "name": "Wonderlink LTE(Fシリーズ)",
+     "country": "Japan",
+     "profile_url": "https://ec-club.panasonic.jp/wonderlink/price/apn_profile_F.html"
+   },
+   {
      "name": "ASAHIネット LTE",
      "country": "Japan",
      "profile_url": "http://asahi-net.jp/service/mobile/lte/config/asahi-hc.mobileconfig"
