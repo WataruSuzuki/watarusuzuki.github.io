@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "UQ mobile",
+     "country": "Japan",
+     "profile_url": "http://www.uqwimax.jp/support/mobile/guide/apn/UQmobile_2.0.mobileconfig"
+   },
+   {
      "name": "Wonderlink LTE(Iシリーズ)",
      "country": "Japan",
      "profile_url": "https://ec-club.panasonic.jp/wonderlink/price/apn_profile.html"
