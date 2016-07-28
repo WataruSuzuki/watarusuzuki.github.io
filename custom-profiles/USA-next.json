@@ -10,8 +10,7 @@
    {
      "name": "Ready SIM",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/custom-profiles/readysim.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/custom-profiles/resources/readysim.mobileconfig"
    }
- ],
- "totalItems": 2
+ ]
 }
