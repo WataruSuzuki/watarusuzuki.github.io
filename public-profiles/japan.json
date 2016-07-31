@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "WIRELESS GATE",
+     "country": "Japan",
+     "profile_url": "http://www.wirelessgate.co.jp/sim/profile/(cellular)wgsimlte1.mobileconfig"
+   },
+   {
      "name": "ServersMan SIM LTE",
      "country": "Japan",
      "profile_url": "http://dream.jp/svmsim/support/manual/ServersMan_SIM_cellular.mobileconfig"
