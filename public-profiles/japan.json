@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "So-net モバイル LTE",
+     "country": "Japan",
+     "profile_url": "http://www.so-net.ne.jp/access/catalog/mobile/lte/download/So-netAPN.mobileconfig"
+   },
+   {
      "name": "ぷららモバイルLTE",
      "country": "Japan",
      "profile_url": "https://web1.plala.or.jp/cgi-bin/option2/docomo_l/agent.cgi?atesaki=docomo_l-profile_login"
