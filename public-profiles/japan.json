@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "BB.exciteモバイルLTE",
+     "country": "Japan",
+     "profile_url": "http://bb.excite.co.jp/lte/docomo/connect/data/bbexcite-mobile-LTE(cellular).mobileconfig"
+   },
+   {
      "name": "So-net モバイル LTE",
      "country": "Japan",
      "profile_url": "http://www.so-net.ne.jp/access/catalog/mobile/lte/download/So-netAPN.mobileconfig"
