@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "ServersMan SIM LTE",
+     "country": "Japan",
+     "profile_url": "http://dream.jp/svmsim/support/manual/ServersMan_SIM_cellular.mobileconfig"
+   },
+   {
      "name": "BB.exciteモバイルLTE",
      "country": "Japan",
      "profile_url": "http://bb.excite.co.jp/lte/docomo/connect/data/bbexcite-mobile-LTE(cellular).mobileconfig"
