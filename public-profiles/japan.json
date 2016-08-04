@@ -18,7 +18,7 @@
      "profile_url": "http://mineo.jp/apn/mineo-d1.mobileconfig"
    },
    {
-     "name": "mineo auプラン（Aプラン, iOS7未満 iPhone 5c/5s）",
+     "name": "mineo auプラン（Aプラン, iOS7 iPhone 5c/5s）",
      "country": "Japan",
      "profile_url": "http://mineo.jp/apn/mineo-a1.mobileconfig"
    },
