@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "DMM mobile（vmobile.jp）",
+     "country": "Japan",
+     "profile_url": "http://mvno.dmm.com/apnprofile/201506161329/dmmmobile.mobileconfig"
+   },
+   {
      "name": "DMM mobile（dmm.com）",
      "country": "Japan",
      "profile_url": "http://mvno.dmm.com/apnprofile/201506161330/dmmmobile.mobileconfig"
@@ -13,7 +18,7 @@
      "profile_url": "http://mineo.jp/apn/mineo-d1.mobileconfig"
    },
    {
-     "name": "mineo auプラン（Aプラン, iOS7 iPhone 5c/5s）",
+     "name": "mineo auプラン（Aプラン, iOS7未満 iPhone 5c/5s）",
      "country": "Japan",
      "profile_url": "http://mineo.jp/apn/mineo-a1.mobileconfig"
    },
@@ -42,6 +47,5 @@
      "country": "Japan",
      "profile_url": "https://www.iijmio.jp/hdd/devices/iijmio-mobiled.mobileconfig"
    }
- ],
- "totalItems": 2
+ ]
 }
