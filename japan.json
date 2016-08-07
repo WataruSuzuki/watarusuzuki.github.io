@@ -1,0 +1,17 @@
+
+{
+ "kind": "profile_lists",
+ "items": [
+   {
+     "name": "IIJmio（Cellular Payload版）",
+     "country": "Japan",
+     "profile_url": "https://www.iijmio.jp/hdd/devices/iijmio-cellular.mobileconfig"
+   },
+   {
+     "name": "IIJmio（APN Payload版）",
+     "country": "Japan",
+     "profile_url": "https://www.iijmio.jp/hdd/devices/iijmio-mobiled.mobileconfig"
+   }
+ ],
+ "totalItems": 2
+}
