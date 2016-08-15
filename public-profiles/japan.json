@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "OCN モバイル ONE",
+     "country": "Japan",
+     "profile_url": "http://s.ocn.jp/ocnprf"
+   },
+   {
      "name": "DTI(iOS 7.x/8.x/9.x)",
      "country": "Japan",
      "profile_url": "http://dream.jp/mb/sim/support/manual/DTI_SIM_cellular.mobileconfig"
