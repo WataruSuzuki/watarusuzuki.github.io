@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "mineo auプラン（Aプラン）",
+     "country": "Japan",
+     "profile_url": "http://mineo.jp/apn/mineo-a2.mobileconfig"
+   },
+   {
      "name": "OCN モバイル ONE",
      "country": "Japan",
      "profile_url": "http://s.ocn.jp/ocnprf"
