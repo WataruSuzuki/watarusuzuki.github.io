@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "mineo auプラン（Aプラン, iOS7 iPhone 5c/5s）",
+     "country": "Japan",
+     "profile_url": "http://mineo.jp/apn/mineo-a1.mobileconfig"
+   },
+   {
      "name": "mineo auプラン（Aプラン）",
      "country": "Japan",
      "profile_url": "http://mineo.jp/apn/mineo-a2.mobileconfig"
