@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "DMM mobile（dmm.com）",
+     "country": "Japan",
+     "profile_url": "http://mvno.dmm.com/apnprofile/201506161330/dmmmobile.mobileconfig"
+   },
+   {
      "name": "mineo ドコモプラン（Dプラン）",
      "country": "Japan",
      "profile_url": "http://mineo.jp/apn/mineo-d1.mobileconfig"
