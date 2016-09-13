@@ -8,9 +8,9 @@
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
    },
    {
-     "name": "NO DATA",
-     "country": "no country",
-     "profile_url": "https://watarusuzuki.github.io/custom-profiles/nodata.mobileconfig"
+     "name": "Ready SIM",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/custom-profiles/readysim.mobileconfig"
    }
  ],
  "totalItems": 2
