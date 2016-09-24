@@ -8,6 +8,11 @@
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
    },
    {
+     "name": "UVA mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/uvamobile.mobileconfig"
+   },
+   {
      "name": "Walmart Family mobile",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/apn-profiles/resources/walmartfamilymobile.mobileconfig"
