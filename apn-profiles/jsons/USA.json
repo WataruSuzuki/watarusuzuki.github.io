@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "Jolt mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/joltmobile.mobileconfig"
+   },
+   {
      "name": "H2O（AT&T MVNO）",
      "country": "USA",
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"

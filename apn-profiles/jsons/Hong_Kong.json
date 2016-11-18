@@ -3,6 +3,16 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "One 2 Free",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/one2free.mobileconfig"
+   },
+   {
+     "name": "PCCW",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/pccw.mobileconfig"
+   },
+   {
      "name": "Peoples",
      "country": "Hong_Kong",
      "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/peoples.mobileconfig"
