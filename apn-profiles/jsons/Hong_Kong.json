@@ -3,6 +3,16 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "CSL1010",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/csl1010.mobileconfig"
+   },
+   {
+     "name": "NewWorld",
+     "country": "Hong_Kong",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/newworld.mobileconfig"
+   },
+   {
      "name": "NextG",
      "country": "Hong_Kong",
      "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/Hong_Kong/nextg.mobileconfig"

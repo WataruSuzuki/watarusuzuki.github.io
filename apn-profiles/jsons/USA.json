@@ -3,14 +3,24 @@
  "kind": "profile_lists",
  "items": [
    {
-     "name": "Jolt mobile",
+     "name": "Good2Go",
      "country": "USA",
-     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/joltmobile.mobileconfig"
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/good2go.mobileconfig"
+   },
+   {
+     "name": "GoSmart Mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/gosmartmobile.mobileconfig"
    },
    {
      "name": "H2O（AT&T MVNO）",
      "country": "USA",
      "profile_url": "https://www.locusapi.com/pcs/h2o.new2.mobileconfig"
+   },
+   {
+     "name": "Jolt mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/joltmobile.mobileconfig"
    },
    {
      "name": "Liberty Wireless",
