@@ -3,6 +3,16 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "Cricket",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/cricket.mobileconfig"
+   },
+   {
+     "name": "Defence mobile",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/defencemobile.mobileconfig"
+   },
+   {
      "name": "Good2Go",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/good2go.mobileconfig"
