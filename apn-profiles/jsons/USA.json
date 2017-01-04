@@ -3,6 +3,11 @@
  "kind": "profile_lists",
  "items": [
    {
+     "name": "Consumer Cellular",
+     "country": "USA",
+     "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/consumercellular.mobileconfig"
+   },
+   {
      "name": "Cricket",
      "country": "USA",
      "profile_url": "https://watarusuzuki.github.io/APNBookmarkPage/resources/USA/cricket.mobileconfig"
