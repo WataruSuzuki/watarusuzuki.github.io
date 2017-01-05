@@ -41,7 +41,8 @@ f.close()
 
 for line in lines:
     os.system("wget "+ line),
-print```
+print
+```
 
 これで、こんな感じで利用します。
 
