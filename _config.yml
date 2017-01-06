@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+# highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -17,7 +17,7 @@ baseurl:          /
 
 author:
   name:           'Wataru Suzuki'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/JchanKchan
 
 paginate:         5
 
