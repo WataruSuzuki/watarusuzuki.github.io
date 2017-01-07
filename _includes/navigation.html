@@ -1,0 +1,34 @@
+<!-- <a
+  href="#open-navigation"
+  title="Open"
+  class="hamburger">
+  &#8801
+</a>
+
+<nav id="open-navigation">
+  <a
+    href="#"
+    title="Close"
+    class="close-modal">
+    &#x2715;
+  </a>
+  <ul id="nav-menu">
+    {% for each in site.navigation_items %}
+
+      {% if each[1] == page.url %}
+        <li class="nav-item active">
+          <a class="nav-link">{{ each[0] }}</a>
+        </li>
+      {% else %}
+        <li class="nav-item">
+          <a
+            href="{{ each[1] | prepend: site.baseurl }}"
+            class="nav-link">
+            {{ each[0] }}
+          </a>
+        </li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+</nav> -->
