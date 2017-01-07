@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "New blog now open!"
-date:   2016-12-30 00:22:04 +0900
-categories: announcement
+tags:
+ - announcement
+
 ---
 Bloggerでmarkdown形式で記載するのが、なかなか面倒であったことと、GitHub Pagesでブログ書けたらいいなーというところから[Jekyll’s GitHub repo][jekyll-gh]を利用したものが使えそうということで、年末年始の休みを利用して移転です。
 

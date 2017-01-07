@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "iOS9からABAddressBookがdeprecated, Contactsが用意されています"
-date:   2016-12-31 03:22:04 +0900
-categories: iOS-Dev
+tags:
+- Study
+- iOS
+
 ---
 以前書いたものを移植したものです。
 

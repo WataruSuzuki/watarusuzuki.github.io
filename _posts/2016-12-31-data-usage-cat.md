@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "スマホの通信量を記録するアプリ"
-date:   2016-12-31 00:22:04 +0900
-categories: MyApp
+tags:
+- MyApp
+- iOS
+- Android
+
 ---
 もともとAndroidの開発が仕事柄多かったのだけど、自分自身が使っているデバイスはずっとiPhone（とiPadも大好き）でした。そこで当時（4，5年前？）の残業地獄が終わった時、
 

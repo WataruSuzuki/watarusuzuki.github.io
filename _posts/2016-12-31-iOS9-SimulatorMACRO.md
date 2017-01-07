@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "iOS9以降のシミュレータマクロ"
-date:   2016-12-31 04:22:04 +0900
-categories: iOS-Dev
+tags:
+- Study
+- iOS
+
 ---
 ※こちらも以前書いたものを移植しています。  
 

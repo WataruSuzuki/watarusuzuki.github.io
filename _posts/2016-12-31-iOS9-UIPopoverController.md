@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "iOS9ではUIPopoverControllerがdeprecatedに・・・"
-date:   2016-12-31 02:22:04 +0900
-categories: iOS-Dev
+tags:
+- Study
+- iOS
+
 ---
 以前書いたものを移植したものです。
 

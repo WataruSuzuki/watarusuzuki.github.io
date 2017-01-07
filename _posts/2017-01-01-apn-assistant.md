@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "格安SIMの設定を助けるアプリ"
-date:   2017-01-01 13:22:04 +0900
-categories: MyApp
+tags:
+- MyApp
+- iOS
+
 ---
 お仕事中に[iOS向け構成プロファイル][ConfigProfileReference]について仕様を把握する機会がありました。  
 
