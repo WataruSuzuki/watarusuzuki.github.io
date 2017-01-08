@@ -22,8 +22,11 @@ NOTE: For some reason, without css opacity set, the href does not work.
   class="post-tags"
   style="opacity: 0.8;">
   {% for tag_name in tags %}
-    <a href="{{ site.baseurl }}/tags#{{ tag_name | slugize }}">
+    <a href="{{ node.url }}/tags#{{ tag_name | slugize }}">
       {{ tag_name | upcase | replace "_", " " }}
     </a>
+    <!-- <a href="{{ site.baseurl }}/tags#{{ tag_name | slugize }}">
+      {{ tag_name | upcase | replace "_", " " }}
+    </a> -->
   {% endfor %}
 </div>
