@@ -1,0 +1,44 @@
+<footer>
+  <div class="container">
+    <div class="contact-info">
+      &copy;
+      <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>.
+      {{ site.author.name }}
+    </div>
+
+    <div class="social-links">
+      <a class="cbutton cbutton--effect-radomir" href="{{ 'mailto:' | append:  site.author.email }}">
+        <i class="cbutton__icon fa fa-envelope-o"></i>
+      </a>
+
+      {% if site.author.github_url %}
+        <a class="cbutton cbutton--effect-radomir" href="{{ site.author.github_url }}">
+          <i class="cbutton__icon fa fa-github"></i>
+        </a>
+      {% endif %}
+
+      {% if site.author.twitter_url %}
+        <a class="cbutton cbutton--effect-radomir" href="{{ site.author.linkedin_url }}">
+          <i class="cbutton__icon fa fa-linkedin"></i>
+        </a>
+      {% endif %}
+
+      {% if site.author.stackoverflow_url %}
+        <a class="cbutton cbutton--effect-radomir" href="{{ site.author.stackoverflow_url }}">
+          <i class="cbutton__icon fa fa-stack-overflow"></i>
+        </a>
+      {% endif %}
+
+      {% if site.author.twitter_url %}
+        <a class="cbutton cbutton--effect-radomir" href="{{ site.author.twitter_url }}">
+          <i class="cbutton__icon fa fa-twitter"></i>
+        </a>
+      {% endif %}
+      {% if site.feed %}
+        <a class="cbutton cbutton--effect-radomir" href="{{ site.baseurl }}/atom.xml">
+          <i class="cbutton__icon fa fa-feed"></i>
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</footer>
