@@ -12,7 +12,7 @@ title: Blog
       {% for post in site.posts %}
         <article class="post">
           <h2 class="post-title h3">
-            <a href="{{ post.url | prepend: site.baseurl }}">
+            <a href="{{ post.url | prepend: node.url }}">
               {{ post.title }}
             </a>
           </h2>
