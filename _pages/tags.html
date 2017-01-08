@@ -35,9 +35,12 @@ Sort by name
       <ul class="related-posts">
         {% for post in site.tags[tag_name] %}
           <li>
-            <a href="{{ post.url | prepend: site.baseurl }}">
+            <a href="{{ post.url | prepend: node.url }}">
               {{ post.title }}
             </a>
+            <!-- <a href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a> -->
           </li>
         {% endfor %}
       </ul>

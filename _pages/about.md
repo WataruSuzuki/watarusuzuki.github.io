@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about # Specify the permalink because this file is not in the root.
+title: About Me
 ---
 
-<section class="introduction">
-I am striving to leverage my diverse skills and experiences in the areas of
-linguistics, counseling, customer service, engineering sales, etc
-so that I will become a resourceful and unique developer.
-</section>
+I'm a Mobile app developer.  
+And this blog is my diary, developing, talking my gadget, sneaker, and more.
 
-{% include timeline.html %}
+[Who is Wataru Suzuki as a Developer?](http://watarusuzuki.github.io/MyProfile/)
+
+このブログは、とあるプログラマのささいな日記です。日々のささいなこと書いています。
