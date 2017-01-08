@@ -1,0 +1,46 @@
+---
+layout: page
+title: Posts By Tags
+permalink: /tags
+---
+
+{% comment %}
+<!--
+Sort by name
+- Create an empty array.
+- Obtain a tag name and push it to the array.
+- Sort the array (by tag names).
+-->
+{% endcomment %}
+
+{% assign sorted_by_name = "" | split: "|" %}
+
+{% for posts_by_tag in site.tags %}
+  {% assign sorted_by_name = sorted_by_name | push: posts_by_tag.first %}
+{% endfor %}
+
+{% assign sorted_by_name = sorted_by_name | sort %}
+
+{% include tag_cloud.html %}
+
+<hr>
+
+<section class="posts-by-tags">
+  {% for tag_name in sorted_by_name %}
+    <div>
+      <h3 id="{{ tag_name }}">
+        {{ tag_name | upcase | replace: "_", " " }}
+      </h3>
+
+      <ul class="related-posts">
+        {% for post in site.tags[tag_name] %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</section>
