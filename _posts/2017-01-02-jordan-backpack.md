@@ -9,7 +9,7 @@ tags:
 
 それでNike Storeを見ていると[ジョーダン スポーツウェア トップローダー][BA8054-012]がビビッときました。
 <!-- [![img](/assets/BA8054-012.png)][BA8054-012]   -->
-[![img](https://watarusuzuki.github.io/MyProfile/other-images/BA8054-012.png)][BA8054-012]  
+[![img](https://watarusuzuki.github.io/images/BA8054-012.png)][BA8054-012]  
 
 Image via Nike
 
