@@ -15,7 +15,7 @@ tags:
 
 で、iOS7 beta版がリリースされた際にUIのデザインがガラッと変わり、再度やってみたいモチベーションが出てきたので、自分で使いそうなアプリを作成したのが、[パケ代にゃんこ][iOS版]です。
 
-[![AppStore](https://watarusuzuki.github.io/MyProfile/banner-images/datausagecat.png)][iOS版]  
+[![AppStore](https://watarusuzuki.github.io/images/banners/datausagecat.png)][iOS版]  
 
 
 [Android版](https://play.google.com/store/apps/details?id=jp.co.devjchankchan.datausagecat_android)もあるのですが、こちらはダウンロード数が全然たいしたことが無いので、あまり積極的にメンテナンスしていないのが実情です。  
