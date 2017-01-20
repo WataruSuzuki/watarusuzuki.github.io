@@ -19,8 +19,7 @@ iOSのSDKでは[それらを行うためのAPI][SecurityFramework]があるよ�
 
 バージョン4.3.0で、修正が取り込まれました。下記のテストコードが利用方法としてわかりやすいと思うので載せておきます。
 
-```swift:TLSEvaluationTests.swift
-
+```swift:
     // MARK: Server Trust Policy - Perform Revoked Tests
 
     func testThatRevokedCertificateRequestFailsWithRevokedServerTrustPolicy() {
@@ -58,7 +57,6 @@ iOSのSDKでは[それらを行うためのAPI][SecurityFramework]があるよ�
             XCTFail("error should be an URLError")
         }
     }
-
  ```
 
  **「なんか変なコード送られてきた、キモい・・」**とか言われないかヒヤヒヤしました(^ ^;)
@@ -66,7 +64,7 @@ iOSのSDKでは[それらを行うためのAPI][SecurityFramework]があるよ�
  しかし、そこは天下のAlamofire運営者です。  
  今回対応してくれたのは[cnoon][cnoon]さんという方でしたが、丁寧にこのパッチに対するヒアリングをして、適切にパッチの意図や目的を理解するように務めてくれたのです。  
  ※Nikeのエンジニアが対応してくれたところに、Air Jordanが大好きな自分との妙な運命を感じましたw
- 
+
 もちろんPull Requestを送る上では最低限の礼儀もあると思いますが、臆して行動しないことより行動してみる方を選んで良かったと思います。またこんな感じで、みんなの為になるパッチが送れれば良いなと思いました。
 
 Thanks, cnoon!!
