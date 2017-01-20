@@ -25,45 +25,45 @@ iOSのSDKでは[それらを行うためのAPI][SecurityFramework]があるよ�
 バージョン4.3.0で、修正が取り込まれました。下記のテストコードが利用方法としてわかりやすいと思うので載せておきます。
 
 
-```diff:TLSEvaluationTests.swift
+```swift:TLSEvaluationTests.swift
 
- +    // MARK: Server Trust Policy - Perform Revoked Tests
- +
- +    func testThatRevokedCertificateRequestFailsWithRevokedServerTrustPolicy() {
- +        // Given
- +        let policy = ServerTrustPolicy.performRevokedEvaluation(
- +            validateHost: true,
- +            revocationFlags: kSecRevocationUseAnyAvailableMethod
- +        )
- +
- +        let policies = [revokedHost: policy]
- +
- +        let manager = SessionManager(
- +            configuration: configuration,
- +            serverTrustPolicyManager: ServerTrustPolicyManager(policies: policies)
- +        )
- +
- +        let expectation = self.expectation(description: "\(revokedURLString)")
- +        var error: Error?
- +
- +        // When
- +        manager.request(revokedURLString)
- +            .response { resp in
- +                error = resp.error
- +                expectation.fulfill()
- +            }
- +
- +        waitForExpectations(timeout: timeout, handler: nil)
- +
- +        // Then
- +        XCTAssertNotNil(error, "error should not be nil")
- +
- +        if let error = error as? URLError {
- +            XCTAssertEqual(error.code, .cancelled, "code should be cancelled")
- +        } else {
- +            XCTFail("error should be an URLError")
- +        }
- +    }
+    // MARK: Server Trust Policy - Perform Revoked Tests
+
+    func testThatRevokedCertificateRequestFailsWithRevokedServerTrustPolicy() {
+        // Given
+        let policy = ServerTrustPolicy.performRevokedEvaluation(
+            validateHost: true,
+            revocationFlags: kSecRevocationUseAnyAvailableMethod
+        )
+
+        let policies = [revokedHost: policy]
+
+        let manager = SessionManager(
+            configuration: configuration,
+            serverTrustPolicyManager: ServerTrustPolicyManager(policies: policies)
+        )
+
+        let expectation = self.expectation(description: "\(revokedURLString)")
+        var error: Error?
+
+        // When
+        manager.request(revokedURLString)
+            .response { resp in
+                error = resp.error
+                expectation.fulfill()
+            }
+
+        waitForExpectations(timeout: timeout, handler: nil)
+
+        // Then
+        XCTAssertNotNil(error, "error should not be nil")
+
+        if let error = error as? URLError {
+            XCTAssertEqual(error.code, .cancelled, "code should be cancelled")
+        } else {
+            XCTFail("error should be an URLError")
+        }
+    }
 
  ```
 
