@@ -24,8 +24,10 @@ iOSのSDKでは[それらを行うためのAPI][SecurityFramework]があるよ�
 
 バージョン4.3.0で、修正が取り込まれました。下記のテストコードが利用方法としてわかりやすいと思うので載せておきます。
 
-```diff:
-+    // MARK: Server Trust Policy - Perform Revoked Tests
+
+```diff:TLSEvaluationTests.swift
+
+ +    // MARK: Server Trust Policy - Perform Revoked Tests
  +
  +    func testThatRevokedCertificateRequestFailsWithRevokedServerTrustPolicy() {
  +        // Given
@@ -62,7 +64,9 @@ iOSのSDKでは[それらを行うためのAPI][SecurityFramework]があるよ�
  +            XCTFail("error should be an URLError")
  +        }
  +    }
+
  ```
+
 
 もちろんPull Requestを送る上では最低限の礼儀もあると思いますが、臆して行動しないことより行動してみる方を選んで良かったと思います。またこんな感じで、みんなの為になるパッチが送れれば良いなと思いました。
 
