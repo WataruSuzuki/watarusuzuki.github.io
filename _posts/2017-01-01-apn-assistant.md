@@ -15,7 +15,7 @@ tags:
 
 このお仕事完了後、「これ使えばAPN設定が隠されていてもAPN設定できるアプリ作れるな」と思いついたので、作りました。
 
-[![AppStore](https://watarusuzuki.github.io/MyProfile/banner-images/apnassistant2.png)](https://itunes.apple.com/jp/app/apnashisutanto2/id1160309695?mt=8)  
+[![AppStore](https://watarusuzuki.github.io/images/banners/apnassistant2.png)](https://itunes.apple.com/jp/app/apnashisutanto2/id1160309695?mt=8)  
 
 なぜ**"2"**なのか？という点は[こちらでも見て察してください](https://watarusuzuki.github.io/APNAssistant/)  
 とにかくこのアプリは国内で格安SIMを利用しているのみの方にはオーバースペックですが、以下のようなことがアプリだけで行えます。
