@@ -16,9 +16,9 @@ tags:
 以前からNike Online Storeでずっと購入するか迷っていた[Nike Air Joran 1 Ultra High][UltraHigh]もそこに鎮座しています！
 
 あれこれ試し履きして、結局こいつを今回は選んで無事帰宅。
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0470.png)][UltraHigh]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0471.png)][UltraHigh]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0472.png)][UltraHigh]  
+[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0470.JPG)][UltraHigh]  
+[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0471.JPG)][UltraHigh]  
+[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0472.JPG)][UltraHigh]  
 
 ほんとはAir Force 1 FlyKnitやAir Jordan 2 lowも欲しかったんですが、ムカデじゃなくて人間なので今回は諦めました。  
 
