@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Air Jordan 1 David Letterman"
+title:  "Air Jordan 1 David Letterman買いました。"
 tags:
 - Jordan-Brand
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Air Jordan 12 Nylon"
+title:  "Air Jordan 12 Nylon買いました。"
 tags:
 - Jordan-Brand
 
