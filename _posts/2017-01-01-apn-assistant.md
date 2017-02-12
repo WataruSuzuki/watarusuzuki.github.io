@@ -28,15 +28,11 @@ tags:
 [こちらにも書きましたが](https://watarusuzuki.github.io/APNAssistant/)、Appleのレビューアはこのアプリを現状あまり好ましく思っていないようなので、もし購入を検討される場合はお早めにｗ  
 iOSアプリ開発者であれば[ソースコードは公開しているので](https://github.com/WataruSuzuki/APNAssistant)、ご自身でビルド＆インストールで無料で利用できます。
 
-<div style="float:left;">
 <a href="https://px.a8.net/svt/ejp?a8mat=2TIH2O+BUVTIQ+3GOM+60WN5" target="_blank" rel="nofollow">
 <img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=170503152717&wid=001&eno=01&mid=s00000016159001012000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2TIH2O+BUVTIQ+3GOM+60WN5" alt="">
-</div>
-<div style="float:left;">
-<a href="https://px.a8.net/svt/ejp?a8mat=2TGWP4+E51N02+50+4YNR7L" target="_blank" rel="nofollow">
-<img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=170430088855&wid=001&eno=01&mid=s00000000018030008000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2TGWP4+E51N02+50+4YNR7L" alt="">
-</div>
+
+
+
 
 [ConfigProfileReference]: https://developer.apple.com/library/content/featuredarticles/iPhoneConfigurationProfileRef/Introduction/Introduction.html

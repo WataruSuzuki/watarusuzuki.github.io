@@ -27,13 +27,7 @@ get_shop_info 'SHOPNAME'
 
 誤ったスクリプトを書いて、サーバを攻撃しないようにしましょうね!!
 
-<div style="float:left;">
-<a href="https://px.a8.net/svt/ejp?a8mat=2TIH2O+BUVTIQ+3GOM+60OXD" target="_blank" rel="nofollow">
-<img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=170503152717&wid=001&eno=01&mid=s00000016159001011000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2TIH2O+BUVTIQ+3GOM+60OXD" alt="">
-</div>
-<div style="float:left;">
+
 <a href="https://px.a8.net/svt/ejp?a8mat=2TIH2O+BZ1UR6+50+35UAKX" target="_blank" rel="nofollow">
 <img border="0" width="300" height="250" alt="" src="https://www29.a8.net/svt/bgt?aid=170503152724&wid=001&eno=01&mid=s00000000018019121000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2TIH2O+BZ1UR6+50+35UAKX" alt="">
-</div>
