@@ -22,7 +22,6 @@ tags:
 試験ビルド版を[5.4.0](http://download.unity3d.com/download_unity/linux/unity-editor-5.4.0b18+20160524_amd64.deb)に更新すれば解決しました。
 
 
-<div style="float:left;">
 <a href="https://px.a8.net/svt/ejp?a8mat=2TGWP4+E51N02+50+4YNR7L" target="_blank" rel="nofollow">
 <img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=170430088855&wid=001&eno=01&mid=s00000000018030008000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2TGWP4+E51N02+50+4YNR7L" alt="">
