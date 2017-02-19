@@ -3,6 +3,7 @@ layout: post
 title:  "OSSに参加するということ"
 tags:
 - OSS
+- Engineer-Life
 
 ---
 ポエムですw  
