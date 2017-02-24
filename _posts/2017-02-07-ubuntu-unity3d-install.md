@@ -15,6 +15,11 @@ tags:
 
 が、Unity3Dについては[試験版ビルド？][Unity3D_on_Ubuntu]が紹介されていました。  
 これを試したところ、意外にもあっさりとインストールすることができました。。
-![img](https://watarusuzuki.github.io/images/unity3donubuntu.png)]
+![img](https://watarusuzuki.github.io/images/unity3donubuntu.png)
+
+※追記  
+どうやらUbuntu 16.04 LTSだと[こちらにある通り][CannotLoginUbuntu16]ログインができないようです。  
+試験ビルド版を[5.4.0](http://download.unity3d.com/download_unity/linux/unity-editor-5.4.0b18+20160524_amd64.deb)に更新すれば解決しました。
 
 [Unity3D_on_Ubuntu]: https://blogs.unity3d.com/2015/07/01/the-state-of-unity-on-linux/
+[CannotLoginUbuntu16]: http://askubuntu.com/questions/776991/cant-login-unity-game-engine-on-ubuntu-16-04-lts
