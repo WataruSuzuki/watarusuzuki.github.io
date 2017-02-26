@@ -39,7 +39,7 @@ tags:
 - スニーカー 180000円 (18000円 x 10)
 
 
-| Left align | Center align | Center align | Right align |
+| 名目 | 値段 | 数 | 合計 |
 |:-----------|:------------:|:------------:|------------:|
 | This       |     This     |     This     |        This |
 | column     |    column    |    column    |      column |
