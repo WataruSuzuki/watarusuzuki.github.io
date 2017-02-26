@@ -38,7 +38,14 @@ tags:
 - パーカー 29000円 (2900円 x 10)
 - スニーカー 180000円 (18000円 x 10)
 
-
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
 
 一概には言えないですが、だいたい５年間で購入額としては10万円弱の節約ですね♪  
 (UNIQLO様の影響が大きい！)
@@ -48,10 +55,3 @@ tags:
 
 WEB系の会社は服装自由な会社が結構多いですが、SIerなどはガチガチの服務規程があるのも実情です。  
 買う服次第ですけど、こういうところでも節約のネタにできるんだよ、って考えが広まるといいのにな、と思いました。
-
-
-[REGAL]: http://www.regalshoes.jp/shop/e/e_repair/
-[hydrolysis]: https://ja.wikipedia.org/wiki/加水分解
-[SOLESHIELDS]: http://sneaker4life.com/2016/11/18/post-28632/
-[COLOR]: http://skit.cocolog-nifty.com/blog/2010/11/post-e468.html
-[SHOEGOO]: http://www.shoegoo.co.jp/
