@@ -31,22 +31,22 @@ tags:
 | 革靴        |    25000円 |    4   | 100000円    |
 
 #### TシャツBOY 合計260520円
-- パンツ 23920円 (2990円 x 8)
-- デニム 7980円 (3990円 x 2)
-- 長袖Tシャツ1 6320円 (790円 x 8)
-- 長袖Tシャツ2 13300円 (1900円 x 7)
-- パーカー 29000円 (2900円 x 10)
-- スニーカー 180000円 (18000円 x 10)
+-  23920円 (2990円 x 8)
+-  7980円 (3990円 x 2)
+-  6320円 (790円 x 8)
+-  13300円 (1900円 x 7)
+-  29000円 (2900円 x 10)
+-  180000円 (18000円 x 10)
 
 
 | 名目 | 値段 | 数 | 合計 |
 |:-----------|:------------:|:------------:|------------:|
-| This       |     This     |     This     |        This |
-| column     |    column    |    column    |      column |
-| will       |     will     |     will     |        will |
-| be         |      be      |      be      |          be |
-| left       |    center    |    center    |       right |
-| aligned    |   aligned    |   aligned    |     aligned |
+| パンツ     |     This     |     This     |        This |
+| デニム     |    column    |    column    |      column |
+| 長袖Tシャツ1 |     will     |     will     |        will |
+| 長袖Tシャツ2 |      be      |      be      |          be |
+| パーカー   |    center    |    center    |       right |
+| スニーカー |   aligned    |   aligned    |     aligned |
 
 一概には言えないですが、だいたい５年間で購入額としては10万円弱の節約ですね♪  
 (UNIQLO様の影響が大きい！)
