@@ -38,14 +38,15 @@ tags:
 - パーカー 29000円 (2900円 x 10)
 - スニーカー 180000円 (18000円 x 10)
 
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
+
+| Left align | Center align | Center align | Right align |
+|:-----------|:------------:|:------------:|------------:|
+| This       |     This     |     This     |        This |
+| column     |    column    |    column    |      column |
+| will       |     will     |     will     |        will |
+| be         |      be      |      be      |          be |
+| left       |    center    |    center    |       right |
+| aligned    |   aligned    |   aligned    |     aligned |
 
 一概には言えないですが、だいたい５年間で購入額としては10万円弱の節約ですね♪  
 (UNIQLO様の影響が大きい！)
