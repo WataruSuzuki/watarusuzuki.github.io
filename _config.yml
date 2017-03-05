@@ -19,7 +19,7 @@ navigation_items:
 # Setup
 title:
   JchanKchan
-  
+
 tagline:          'A Mobile app developer'
 description:      'A Mobile app developer.'
 url:              https://watarusuzuki.github.io/
@@ -29,7 +29,7 @@ author:
   name:           'Wataru Suzuki'
   url:            https://twitter.com/JchanKchan
 
-paginate:         5
+paginate:         10
 
 # Include custom directories
 include: ['_pages']
