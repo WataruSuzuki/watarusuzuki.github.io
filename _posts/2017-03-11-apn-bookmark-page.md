@@ -3,7 +3,7 @@ layout: post
 title:  "格安SIMのプロファイル一覧サイト"
 tags:
 - MyApp
-- iOS
+- WebApp
 
 ---
 以前に[格安SIMの設定を助けるアプリ][post20170101]である[APNアシスタント][APNAssistant]を紹介しました。  
