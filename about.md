@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About me 
+title: About me
 ---
+モバイルアプリの開発者やってます。スニーカーも好きなので、そのへんも時々書きます。
 
-This is a static page. It could be an 'about page' if you'd like.
+I'm a mobile app developer. And I like to sneaker especially Ari Jordan.  
+Please check [my profile](https://watarusuzuki.github.io/MyProfile/) as a Developer if you're interesting.
