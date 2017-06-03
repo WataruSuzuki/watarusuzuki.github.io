@@ -2,7 +2,9 @@
 layout: page
 title: About me
 ---
-モバイルアプリの開発者やってます。スニーカーも好きなので、そのへんも時々書きます。
+I'm a Mobile app developer.  
+And this blog is my diary, developing, talking my gadget, sneaker, and more.
 
-I'm a mobile app developer. And I like to sneaker especially Ari Jordan.  
-Please check [my profile](https://watarusuzuki.github.io/MyProfile/) as a Developer if you're interesting.
+[Who is Wataru Suzuki as a Developer?](http://watarusuzuki.github.io/MyProfile/)
+
+このブログは、とあるプログラマのささいな日記です。日々のささいなこと書いています。
