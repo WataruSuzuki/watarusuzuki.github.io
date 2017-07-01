@@ -13,7 +13,7 @@ tags:
 できればMacBook側はストレージ容量も小さいので、出来る限り必要最低限のアプリのみにしておきたい事情が。。  
 というわけで、Ubuntu側に無理やり環境構築を行う方針としました。
 
-が、Unity3Dについては[試験版ビルド？][Unity3D_on_Ubuntu]が紹介されていました。  
+Unity3Dについては[試験版ビルド？][Unity3D_on_Ubuntu]が紹介されており、  
 これを試したところ、意外にもあっさりとインストールすることができました。。
 ![img](https://watarusuzuki.github.io/images/unity3donubuntu.png)
 
