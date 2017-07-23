@@ -1,45 +1,16 @@
-# Dependencies
-markdown:         kramdown
-# highlighter:      pygments
+name: JchanKchan
+description: A Mobile App Developer
+meta_description: "JchanKchan, A Mobile App Developer"
 
-# Permalinks
-permalink:        pretty
-# relative_permalinks: false
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://watarusuzuki.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
 
-# Navigation links in the header of the website
-navigation_items:
-  Home:     '/'         # /index.html
-  About:    '/about'    # /about.html
-  Blog:     '/blog/'    # /blog/index.html
-  # Projects: '/projects' # /projects.html
-  # Talks:    '/talks'    # /talks.html
-  # Resume:   '/resume'   # /resume.html
-  # Archive:  '/archive'
-
-# Setup
-title:
-  JchanKchan
-
-tagline:          'A Mobile app developer'
-description:      'A Mobile app developer.'
-url:              https://watarusuzuki.github.io/
-baseurl:          /
-
-author:
-  name:           'Wataru Suzuki'
-  url:            https://twitter.com/JchanKchan
-
-paginate:         10
-
-# Include custom directories
-include: ['_pages']
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/WataruSuzuki/watarusuzuki.github.io
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+# Details for the RSS feed generator
+url:            'https://watarusuzuki.github.io'
+author:         'Wataru Suzuki'
