@@ -3,7 +3,7 @@ description: A Mobile App Developer
 meta_description: "JchanKchan, A Mobile App Developer"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
