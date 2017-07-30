@@ -1,6 +1,11 @@
 ---
 layout: page
-title: About me 
+title: About me
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+I'm a Mobile app developer.  
+And this blog is my diary, developing, talking my gadget, sneaker, and more.
+
+[Who is Wataru Suzuki as a Developer?](http://watarusuzuki.github.io/MyProfile/)
+
+このブログは、とあるプログラマのささいな日記です。日々のささいなこと書いています。
