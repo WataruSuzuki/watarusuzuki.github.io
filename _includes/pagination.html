@@ -1,13 +1,26 @@
-<nav class="pagination" role="pagination">
-    {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-            <a class="newer-posts" href="/" title="Previous Page">&laquo; Newer Posts</a>
-        {% else %}
-            <a class="newer-posts" href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Newer Posts</a>
-      {% endif %}
-    {% endif %}
-    <span class="page-number"> Page {{paginator.page}} of {{paginator.total_pages}} </span>
-    {% if paginator.next_page %} 
-        <a class="older-posts" href="/page{{ paginator.next_page }}/" title="Next Page">Older Posts &raquo;</a>
-    {% endif %} 
+<nav class="pagination" role="navigation">
+  {% assign older = "<< Older Entries" %}
+  {% assign newer = "Newer Entries >>" %}
+
+  {% if paginator.next_page %}
+    <a
+      class="pagination-item older"
+      href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+      {{ older }}
+    </a>
+  {% else %}
+    <span class="pagination-item older">{{ older }}</span>
+  {% endif %}
+
+  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+  {% if paginator.previous_page %}
+    <a
+      class="pagination-item newer"
+      href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
+      {{ newer }}
+    </a>
+  {% else %}
+    <span class="pagination-item newer">{{ newer }}</span>
+  {% endif %}
 </nav>
