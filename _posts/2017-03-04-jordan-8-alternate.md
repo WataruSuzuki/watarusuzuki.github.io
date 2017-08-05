@@ -14,10 +14,10 @@ tags:
 特にエアジョーダン6や8は個人的にもお気に入りであることからターゲットになることはこの世の理。  
 
 最近までエアジョーダン6カーマインを持っていたこともあり、今回はこちらをチョイスです。  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_1486.JPG)][Alternate]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_1487.JPG)][Alternate]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_1488.JPG)][Alternate]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_1489.JPG)][Alternate]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_1486.JPG)][Alternate]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_1487.JPG)][Alternate]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_1488.JPG)][Alternate]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_1489.JPG)][Alternate]  
 
 ベルトでしっかりとフィットさせる作りになっているので、夏場には若干蒸れるかもしれません。  
 またライニングが白基調の生地になっているので長めのソックスでないと足首との擦れで汚れが目立つかも。  

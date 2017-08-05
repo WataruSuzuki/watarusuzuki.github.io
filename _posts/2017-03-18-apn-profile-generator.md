@@ -15,7 +15,7 @@ tags:
 
 ウェブサイトで利用するだけなら、アプリに対するお試しサービスとしてもちょうどいいので、これも[OSSとして公開しました][APNProfileGenerator]。
 
-[![img](https://watarusuzuki.github.io/images/APNProfileGenerator.png)][deploy_APNProfileGenerator]  
+[![img](https://watarusuzuki.github.io/assets/images/APNProfileGenerator.png)][deploy_APNProfileGenerator]  
 
 
 利用するSIMのAPN情報がわかるなら、あとは適切な情報を入力して「Download」をタップすれば、Safariがよろしくプロファイルの設定まで誘導してくれます。※多分iOSではSafariでしか動作しません。

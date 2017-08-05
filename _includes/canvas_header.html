@@ -3,16 +3,16 @@ Determine an image and its shape for the page.
 {% endcomment %}
 
 {% if page.title == "Home" %}
-  {% assign image_url = "/images/masatoshi_portrait_300.png" %}
+  {% assign image_url = "/assets/images/masatoshi_portrait_300.png" %}
   {% assign clip      = "clip-right-point" %}
 {% elsif page.title == "About" %}
-  {% assign image_url = "/images/masatoshi_chinatown_300.png" %}
+  {% assign image_url = "/assets/images/masatoshi_chinatown_300.png" %}
   {% assign clip      = "clip-shogi" %}
 {% elsif page.title == "Blog" %}
-  {% assign image_url = "/images/mount_fuji_300_150.png" %}
+  {% assign image_url = "/assets/images/mount_fuji_300_150.png" %}
   {% assign clip      = "clip-message" %}
 {% else %}
-  {% assign image_url = "/images/logo_200.png" %}
+  {% assign image_url = "/assets/images/logo_200.png" %}
   {% assign clip      = "clip-circle" %}
 {% endif %}
 
@@ -42,7 +42,7 @@ Determine an image and its shape based on page title.
     <div
       data-svg="logo-svg"
       class="logo hide"
-      style='background: url("{{site.baseurl}}/images/logo_80_white.png");'>
+      style='background: url("{{site.baseurl}}/assets/images/logo_80_white.png");'>
     </div>
   </a>
 </div>

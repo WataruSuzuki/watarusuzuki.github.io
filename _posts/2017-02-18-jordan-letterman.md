@@ -17,10 +17,10 @@ tags:
 **せっかくの旅行だし、自分自身にお土産買ってもいいよ**
 
 と、お許しも出たことなのでw、拙い英語で在庫と試し履きを確認し、こいつを選ぶことにしました。
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0297.JPG)][Letterman]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0298.JPG)][Letterman]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0299.JPG)][Letterman]  
-[![img](https://watarusuzuki.github.io/images/myshoes/IMG_0300.JPG)][Letterman]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_0297.JPG)][Letterman]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_0298.JPG)][Letterman]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_0299.JPG)][Letterman]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/IMG_0300.JPG)][Letterman]  
 
 ※ほんとはNike公式のリンクにしたかったんですが見つからず..  
 

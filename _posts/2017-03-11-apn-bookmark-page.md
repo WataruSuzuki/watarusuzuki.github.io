@@ -13,7 +13,7 @@ tags:
 
 まあApple Review Team~~の質は一貫していないので~~にも色々な方がいらっしゃるので、現状は一応App Storeからダウンロードできるわけですが、せっかく集めたデータなどが埋もれてしまうのも勿体無いので、[OSSとして公開したり][OSS_APNAssistant]する他に、これらのプロファイルをWEBサイトからダウンロードできるように、簡単な[Webアプリ][APNBookmarkPage]を作って見ました。
 
-[![img](https://watarusuzuki.github.io/images/APNBookmarkPage.png)][deploy_APNBookmarkPage]  
+[![img](https://watarusuzuki.github.io/assets/images/APNBookmarkPage.png)][deploy_APNBookmarkPage]  
 
 
 公開されている各国のMVNO向けAPN情報を元に、自前で構成プロファイルを作成、または公式の構成プロファイルURLリンクへアクセスできるようにしています。使いたいMVNOのAPNを選んでタップすれば、あとはSafariがインストール許可を求めてくるので、従って操作すればOKです。
