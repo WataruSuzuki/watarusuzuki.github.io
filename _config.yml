@@ -14,3 +14,5 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'https://watarusuzuki.github.io'
 author:         'Wataru Suzuki'
+
+include: ['_pages']
