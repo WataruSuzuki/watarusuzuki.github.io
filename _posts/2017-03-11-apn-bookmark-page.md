@@ -21,9 +21,11 @@ tags:
 利用は[こちらから][deploy_APNBookmarkPage]可能ですので、是非iPhone/iPadユーザはブックマークしておいてください(^ ^)
 
 
+<!--
 <a href="https://px.a8.net/svt/ejp?a8mat=2TIH2O+BUVTIQ+3GOM+60OXD" target="_blank" rel="nofollow">
 <img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=170503152717&wid=001&eno=01&mid=s00000016159001011000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2TIH2O+BUVTIQ+3GOM+60OXD" alt="">
+-->
 
 
 [APNAssistant]: https://watarusuzuki.github.io/APNAssistant/

@@ -15,9 +15,11 @@ tags:
 ふと思ったのですが、**スーツと私服ってどちらが日々のコストにかかってくるんだろう？**ということです。  
 どちらも服にかける値段はピンキリなところもあるので、一概には言えないところもありますが今回は自身の1ヶ月を振り返って（雑ですが）算出してみました。
 
+<!--
 <a href="https://px.a8.net/svt/ejp?a8mat=2TIHUT+5YXI5U+38JA+5Z6WX" target="_blank" rel="nofollow">
 <img border="0" width="468" height="60" alt="" src="https://www21.a8.net/svt/bgt?aid=170504165361&wid=001&eno=01&mid=s00000015103001004000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=2TIHUT+5YXI5U+38JA+5Z6WX" alt="">
+-->
 
 では、それぞれの購入額を（どんぶり勘定ですが）書いてみました。  
 感覚として**この負担額で5年間乗り切る**
@@ -54,5 +56,7 @@ tags:
 WEB系の会社は服装自由な会社が結構多いですが、SIerなどはガチガチの服務規程があるのも実情です。  
 買う服次第ですけど、こういうところでも節約のネタにできるんだよ、って考えが広まるといいのにな、と思いました。
 
+<!--
 <table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:108px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=2HSPW2+9XTJCI+2HOM+BWGDT&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00q0724.2bo11c45.g00q0724.2bo12179%2Fa15082587770_2HSPW2_9XTJCI_2HOM_BWGDT%3Fpc%3Dhttp%253A%252F%252Fitem.rakuten.co.jp%252Fbook%252F14605405%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fbook%252Fi%252F18308972%252F" target="_blank" rel="nofollow"><img border="0" alt="" src="http://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6181/9784087816181.jpg?_ex=128x128" /></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=2HSPW2+9XTJCI+2HOM+BWGDT&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00q0724.2bo11c45.g00q0724.2bo12179%2Fa15082587770_2HSPW2_9XTJCI_2HOM_BWGDT%3Fpc%3Dhttp%253A%252F%252Fitem.rakuten.co.jp%252Fbook%252F14605405%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fbook%252Fi%252F18308972%252F" target="_blank" rel="nofollow">スタメン25着で着まわす毎日コーディネート塾 ほぼユニクロで男のオシャレはうまくいく [ MB ]</a></p><p style="color:#666; margin-top:5px line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">1,512円</span><br/><span style="font-size:10px; font-weight:normal;">(2017/5/4 19:20時点)</span><br/><span style="font-weight:bold;">感想(2件)</span></p></td></tr></table>
 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2HSPW2+9XTJCI+2HOM+BWGDT" alt="">
+-->

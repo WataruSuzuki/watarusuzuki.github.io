@@ -17,6 +17,8 @@ tags:
 少し様子見な感じですが、確認が取れた段階で利用するアプリには順次適用していきたいところです。  
 
 
+<!--
 <a href="https://px.a8.net/svt/ejp?a8mat=2TIH2O+BUVTIQ+3GOM+60WN5" target="_blank" rel="nofollow">
 <img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=170503152717&wid=001&eno=01&mid=s00000016159001012000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2TIH2O+BUVTIQ+3GOM+60WN5" alt="">
+-->
