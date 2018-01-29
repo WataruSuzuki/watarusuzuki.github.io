@@ -18,10 +18,10 @@ SNKRSでは即完売になっていた[Air Jordan 1 Flyknit](https://www.nike.co
 それで、嬉しそうに袋もって消えてくのを見てたら、こちらも欲しくなってしまい、そこからはあまり覚えてませんｗｗ
 
 
-![[img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-211.JPG)[FlyknitBHM]]  
-![[img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-212.JPG)[FlyknitBHM]]  
-![[img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-215.JPG)[FlyknitBHM]]  
-![[img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-216.JPG)[FlyknitBHM]]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-211.JPG)][FlyknitBHM]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-212.JPG)][FlyknitBHM]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-215.JPG)][FlyknitBHM]  
+[![img](https://watarusuzuki.github.io/assets/images/myshoes/2018-02-03_22-03-23-216.JPG)][FlyknitBHM]  
 
 初めてFlyknitのシューズを買いましたが、こいつはヒールカップからトップラインまでの内側がレザーになっています
 （たぶんフルフルでFlyknitだと型が崩れるからかなと）
