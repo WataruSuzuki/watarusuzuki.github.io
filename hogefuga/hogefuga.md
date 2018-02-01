@@ -28,7 +28,24 @@ tags:
 
 #### Physical Books
 
+自分も紙の書籍に対する信仰はあまり無いので共感を覚える内容でした。
+ちょっと話ずれちゃいますが、小説とかKindleで読めばいいのに、って奥さんなんかには時々言うんですが
+紙の本で読む雰囲気というか体験というか、そこを持っている人は確かにいるのかも、と感じることもあります。
+(単に現状維持バイアスが働いている、以上のものを感じるんですよね、ときどき。)
+
 #### Engineers by trade
+
+>often Gnd that many engineers have no Computer Science de-
+gree
+
+はい、自分のことですね。ただ日本特有の大学や求人に関する背景も理解されていて、そこも分析されたうえで、現状どうなっているか触れていっています。
+
+>often self-teaching yields less than ideal programming practices
+
+>copy+paste over refactoring, happy-path coding, odd variable naming,
+strong coupling, etc
+
+新しい言語やプラットフォームでのコード書くときは、よく似たことやっているので、真似るで終わらずちゃんと学んでいかないとダメってことですね。
 
 ### Cultural Differences
 
