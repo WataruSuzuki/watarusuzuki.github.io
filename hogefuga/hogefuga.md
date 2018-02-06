@@ -49,13 +49,51 @@ strong coupling, etc
 
 ### Cultural Differences
 
+ここでの文化の違いは _エンジニアの_ 文化の違いです。
+
+> Not writing tests or enough tests before deploying code
+
+これは日本のIT会社ではまだまだ目立つことかと思います。  
+個人的には自動テストの充実はロジックのリファクタリングを促す、勇気を与えてくれるものだと思います。  
+レビューアに、どういう観点でテストしているのかを示すのにも有効だと思います。
+> Lengthy useless ritual meetings
+
+ええ、何もいうことはありませんｗｗ（今の勤め先では存在しないことが幸せ）
+> Anything where they can’t Gnd a logical explanation for irrational
+behavior
+
+これも今は身近には居ませんが、「おいおい、冗談も休み休み言えよ」っていう、ほんとにとんでもない提案を持ち出す人や、どう考えても実現性の無い内容、非合理的な内容を耳にしたことは少なくないです。  
+（短距離走と同じスピードで走れば、マラソンも超早いぜ、みたいなアレです）
+
+
 ### Real Cultural Differences
+
+ここからはほんとに生活上というか習慣などからくる文化の違いについて。
 
 #### Fear of Decisions
 
+大きな組織ほど会議資料が多いです。ひょっとしたら事業関係の職種だと、今の勤め先もそうかもしれません。  
+幸いエンジニア組織については、そういう判断基準が蔓延らないように注意されているのを感じるので、こういう不毛な展開は今はありません。
+> but
+that’s where another of the great things about working in Japan comes
+up
+
+ええ、やってきます！！
+
 #### Ambiguity
 
+> Example conversation:
+
+おそらく、このやり取りは「外国人」だけが不満に感じることではないはず！！
+
 #### Peer Pressure
+
+> You may see bosses or coworkers exerting pressure on someone in order
+to push more work onto them
+
+自分が前職で最も嫌だったことです。転職後にも夢でみましたよｗｗ  
+これを普段から行っている人は、この国で簡単に銃が手に入らないことに感謝すべきですね。  
+（反撃のダメージがでかい国では多分少ないやり方だと思うので）
 
 #### I’ll do my best
 
