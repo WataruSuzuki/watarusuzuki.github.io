@@ -130,9 +130,27 @@ to push more work onto them
 
 ### Formal Language
 
+このEメールの例は、きっと日本人でも煩わしく思っている方が沢山いると思います。  
+Slackなどチャットで社内の連絡を行うようにするだけで、日本企業では結構簡単にパラダイムシフト出来るとも思いますが。
+> Yes, whoah. Get used to it. This is its own blog topic.
+
+まさに日本の職場に慣れていなければ悪夢ww
+
 ### Technical Language
 
+これも本来の言葉をそのまま使っているものと思いきや、いくつか和製英語があったり、中にはネイティブスピーカーがびっくりする内容に変わっているものもあるそうで、少なくともこれ以降は使わないようにしたいです。  
+あと、カタカナ発音ってだけで実は同じものもあるけど、これは結構難しいのかな・・
 
+> - Hearing
+>   - A meeting where people hear mainly you talk about things (no, you’re not on trial, don’t worry)
 
-- hoge
--
+別途、本人の翻訳版でも追記がありましたが、 **裁判を意味するらしい** ので使わないのが無難...
+
+## 感想まとめ
+
+とにかく記事の内容が面白い、というだけではなくて、（些細かもしれないけど）日本の職場の悪習をよく表していてスッと腑に落ちる記事だったと思います。
+> Working and living in Japan in a Japanese company will be an adventure, I guarantee you, and you will likely not regret the experience, but I hope this serves as a notice to keep both eyes open as you step into a complex and sometimes difficult work environment.
+
+こういう考え方は日本人でも、重要だと思います。もちろん本人の触れ方だけではどうにもならない問題だってあるとは思いますが、やはり世の中ネガティブなことを口にするだけの人間が信頼される、ということは極めて稀ですし、（個人的に、そういう人たちは）往々にしてその場で愚痴を垂らせば満足しちゃっている気がします。
+
+見聞を広く持つことで、過去の同じ事柄でも違った捉え方が出来たり、何か気づける点は結構出てくるものなので、こういう考え方に今後も触れることを恐れずに生活したいものです。
