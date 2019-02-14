@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Air Jordan 8 Alternate買いました。"
+title:  "Air Jordan 8 Alternate買いました"
 tags:
 - Jordan-Brand
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Air Jordan 1 Ultra High買いました。"
+title:  "Air Jordan 1 Ultra High買いました"
 tags:
 - Jordan-Brand
 

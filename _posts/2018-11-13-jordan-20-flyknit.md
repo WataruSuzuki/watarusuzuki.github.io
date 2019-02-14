@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "エアジョーダン20買いました。"
+title:  "エアジョーダン20買いました"
 tags:
 - Jordan-Brand
 

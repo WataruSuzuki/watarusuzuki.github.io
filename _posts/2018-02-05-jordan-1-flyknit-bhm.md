@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Air Jordan 1 Flyknit BHMを買いました。"
+title:  "Air Jordan 1 Flyknit BHMを買いました"
 tags:
 - Jordan-Brand
 
