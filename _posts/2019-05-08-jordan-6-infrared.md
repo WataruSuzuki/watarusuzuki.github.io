@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "エアジョーダン6'infrared'買いました"
+title:  "エアジョーダン6 'infrared' 買いました"
 tags:
 - Jordan-Brand
 
