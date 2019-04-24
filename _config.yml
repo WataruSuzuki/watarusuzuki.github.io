@@ -9,7 +9,9 @@ paginate: 15
 baseurl: "http://watarusuzuki.github.io/"
 domain_name: 'https://watarusuzuki.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
-gems: [jekyll-paginate]
+gems:
+    - jekyll-paginate
+    - jekyll-seo-tag
 
 # Details for the RSS feed generator
 url:            'https://watarusuzuki.github.io'
