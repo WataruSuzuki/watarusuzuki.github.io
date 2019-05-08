@@ -6,8 +6,6 @@ tags:
 
 ---
 
-編集中・・・
-
 今年の2月に復刻された[Air Jordan 6 'Infrared'](https://www.nike.com/jp/launch/t/air-jordan-6-retro-og-infrared/)ですが、~~前日にワイン飲み過ぎた影響で寝過ごし~~諸般の事情でSNKRSの発売時刻に立ち合うことすら出来ず、近所のショップを渡り歩いても在庫がありませんでした…  
 SNKRSアプリ1周年の抽選も当然ながら落選、今回は買えないものかなと思っていましたが諦めきれません。
 
