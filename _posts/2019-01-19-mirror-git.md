@@ -16,7 +16,7 @@ tags:
 #bin/sh
 
 git clone --mirror ＜ミラー元のリポジトリ＞
-cd mealdock-ios.git
+cd ＜ミラー元のリポジトリ＞
 git remote set-branches origin 'heads/*'
 git remote set-url --push origin ＜ミラー先のリポジトリ＞
 git fetch -p origin
