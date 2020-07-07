@@ -10,7 +10,11 @@ tags:
 
 個人アプリにSwiftUIを試してみたくて、最初はなんとなくMVVMを使ってみていたけどCoreDataのあたりが綺麗に整理するには相性が悪い気がして、じゃあ他のアーキテクチャはどうなんだろうとチラチラと見てた際に見つけたものを残しておくだけのページ・・
 
-![redux-for-swiftui](https://watarusuzuki.github.io/assets/images/redux-for-swiftui.gif) 
+### いい感じの図
+![redux-for-swiftui](https://watarusuzuki.github.io/assets/images/redux-for-swiftui.gif)
+
+### いい感じの記事
+- [SwiftUIアプリ設計をReduxを使って開発する(コードを使っての説明)](https://note.com/masa7351/n/ne0376c1ff6a0)
 
 -----
 
