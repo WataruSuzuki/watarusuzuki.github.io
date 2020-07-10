@@ -9,7 +9,7 @@ tags:
 ---
 
 ```groovy
-./gradlew app:dependencies --configuration <フレーバー（debugRuntimeClasspathとか）>
+./gradlew app:dependencies --configuration フレーバー（debugRuntimeClasspathとか）
 ```
 
 ----------
