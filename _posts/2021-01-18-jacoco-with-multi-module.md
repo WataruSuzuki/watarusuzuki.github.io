@@ -24,7 +24,8 @@ tags:
 
 欲しいのはあくまで`target module`のカバレッジです。  
 `related module XXX`は`target module`の公開APIをテストするモジュールです。  
-例えばAndroidでライブラリ開発をするケースで、`target module`は本体、`related module`はサンプルアプリです。
+例えばAndroidでライブラリ開発をするケースで、`target module`は本体、`related module`はサンプルアプリとなるので↓のような感じでテストを書いています。
+
 - `target module`は`JUnit`
 - `related module`は`Espresso`
 
@@ -33,7 +34,7 @@ tags:
 深く調べていないので結論だけ書きますが、
 
 **ターゲットモジュールの名前が昇降順で先頭にならないとレポートのマージに失敗します**  
-----------
+
 
 - [試したリポジトリ](https://github.com/WataruSuzuki/Example-CodeCoverage-AndroidLibrary)
 
