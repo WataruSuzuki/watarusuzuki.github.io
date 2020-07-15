@@ -18,8 +18,8 @@ tags:
       Rounding errors can overemphasize cheap operations, or underemphasize repeated operations.
       This timing system also does not take CPU scheduling or frequency into account.
       ```
-  - `trace`を使う
-  - Android Studioのプロファイラを使う
+  - [`trace`](https://developer.android.com/reference/android/os/Trace)を使う
+  - `Android Studioのプロファイラ`を使う
 
 ----------
 #### 参考
