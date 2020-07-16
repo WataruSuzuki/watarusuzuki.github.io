@@ -11,7 +11,7 @@ tags:
 メモ。色々あるけど、少しずつやるしか無いよ。
 
 - 処理時間を調べてボトルネックを特定する
-  - ~TimingLoggerとか使いましょう~ これAPI Level 30では非推奨になっていくみたいです。
+  -  ~TimingLoggerとか使いましょう~ これAPI Level 30では非推奨になっていくみたいです。
       ```
       Use Trace, or Android Studio.
       In general, milliseconds is the wrong granularity for method-level tracing.
