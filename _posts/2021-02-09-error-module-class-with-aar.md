@@ -37,4 +37,4 @@ Dynamic moduleを使うケースでも同じような場合があるらしい。
 
 ----------
 #### 参考
-- [Cancellation and Timeouts](https://kotlinlang.org/docs/reference/coroutines/cancellation-and-timeouts.html)
+- [META-INF/version duplicate error when using Proguard](https://discuss.gradle.org/t/meta-inf-version-duplicate-error-when-using-proguard/31380)
