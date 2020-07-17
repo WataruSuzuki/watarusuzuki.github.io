@@ -30,7 +30,13 @@ packagingOptions {
 ```
 
 が、今回の場合は上手く行かない。
-解決策としては幾つか調べると、`-dontwarn module-info`をProguardのルールに追記することで解決した。
+解決策としては幾つか調べると、
+
+```groovy
+-dontwarn module-info
+```
+
+をProguardのルールに追記することで解決した。
 
 （記述した内容から推察すると、依存ライブラリ間で異なるJDKでビルドしたやつがいるとダメな場合があるのかな？？）
 Dynamic moduleを使うケースでも同じような場合があるらしい。
