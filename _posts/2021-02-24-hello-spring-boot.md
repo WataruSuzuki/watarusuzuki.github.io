@@ -14,6 +14,7 @@ Hello Worldを「ハロワ」と略す人はいないだろうけど(^^;;
 ただ作っていて、バックエンドはサーバレスの方が良いかもしれないと思ったので、別のフレームワーク？も試してみても良いかもしれない。
 
 [Hello-SpringBoot-with-NuxtJs](https://github.com/WataruSuzuki/Hello-SpringBoot-with-NuxtJs)
+
 ----------
 
 #### 参考
