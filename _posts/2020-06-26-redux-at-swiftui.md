@@ -14,7 +14,9 @@ tags:
 ![redux-for-swiftui](https://watarusuzuki.github.io/assets/images/redux-for-swiftui.gif)
 
 ### いい感じの記事
+- [SwiftUIアプリ設計をReduxを使って開発する(Reduxの特徴をおさらいする)](https://note.com/masa7351/n/n22a327124497)
 - [SwiftUIアプリ設計をReduxを使って開発する(コードを使っての説明)](https://note.com/masa7351/n/ne0376c1ff6a0)
+- [SwiftUI + Redux = ❤️](https://engineering.mercari.com/en/blog/entry/2019-12-11-150000/)
 
 -----
 
