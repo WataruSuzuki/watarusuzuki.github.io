@@ -13,6 +13,13 @@ tags:
 ### 試したもの
 [Example-WidgetKit-Suggestions](https://github.com/WataruSuzuki/Example-WidgetKit-Suggestions)
 
+### 少しハマったこと
+- 事前に端末の開発者設定で以下の辺りを有効化しておかないとキツい
+  - WidgetKit Developer Mode
+  - Display Donation on Lock Screen
+  - Allow Any Donation
+  - Allow Unverified Sources
+- Simulatorだと上記設定を変えても開発者設定が有効にならない（結果的にデバッグは困難）
 
 ----------
 
