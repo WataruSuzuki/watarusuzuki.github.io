@@ -59,6 +59,27 @@ pip install cryptography
 python3 ＜さっき作ったファイル＞.py
 ```
 
+上手くいけば、JWTの値が出力されると思います
+
+## アクセストークンを取得する
+
+```shell
+export SIGNED_JWT=＜さっき生成したsigned_jwt＞
+curl -d grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer -d assertion=$SIGNED_JWT https://oauth2.googleapis.com/token | jq
+```
+
+## APIの呼び出し方を調べて実行する
+
+[Reference documentation](https://developers.google.com/play/developer/reporting/reference/rest)を参照します。  
+例として[Method: vitals.crashrate.get](https://developers.google.com/play/developer/reporting/reference/rest/v1beta1/vitals.crashrate/get)はこんな感じになるかと思います。
+
+```shell
+export ACCESS_TOKEN=＜さっき取得したアクセストークン＞
+export YOUR_APP_PACKAGE="com.example.your.awosome.app"
+curl -X GET \
+  "https://playdeveloperreporting.googleapis.com/v1beta1/apps/$YOUR_APP_PACKAGE/crashRateMetricSet" \
+  -H "Authorization: Bearer $ACCESS_TOKEN"
+```
 
 ----------
 
